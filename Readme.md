@@ -67,6 +67,12 @@ const aryan = {
 ## GitHub Analytics
 
 <div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=AryanGoyal17&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanGoyal17&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
