@@ -72,14 +72,23 @@ const aryan = {
 ## GitHub Analytics
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=AryanGoyal17&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
-
+  <img width="49%" src="https://streak-stats.demolab.com?user=AryanGoyal17&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanGoyal17&theme=github_dark" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanGoyal17&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryanGoyal17&bg_color=0d1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanGoyal17/AryanGoyal17/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanGoyal17/AryanGoyal17/output/snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AryanGoyal17/AryanGoyal17/output/snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
