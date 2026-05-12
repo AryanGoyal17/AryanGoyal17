@@ -15,6 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--goyal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-goyal-814b44378/)
 [![Email](https://img.shields.io/badge/Email-aryan.goyaltiet@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.goyaltiet@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-aryangoyal17-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aryangoyal17)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AryanGoyal17&color=3B82F6&style=flat-square&label=Visitors)
 
