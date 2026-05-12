@@ -11,7 +11,7 @@
 
 ### AI/ML Enthusiast • CyberSecurity Explorer • GSSoC'26 Contributor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Exploring+AI%2FML+with+Python+%26+Data+Science;Building+backends+with+Node.js+%26+Express;Diving+deep+into+CyberSecurity+%26+OWASP;Contributing+to+Open+Source+via+GSSoC%2726)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Exploring+AI%2FML+with+Python+%26+Data+Science;Building+backends+with+Node.js+%26+Express;Diving+deep+into+CyberSecurity;Contributing+to+Open+Source+via+GSSoC%2726)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--goyal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-goyal-814b44378/)
 [![Email](https://img.shields.io/badge/Email-aryan.goyaltiet@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.goyaltiet@gmail.com)
