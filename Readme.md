@@ -41,7 +41,7 @@
 | **Employee Attrition Analysis** | EDA on HR data to find out why employees leave and how to improve retention (Python, Pandas, Seaborn) | [Repo](https://github.com/AryanGoyal17/Employee-Attrition-Analysis) |
 | **leadtiet.in** | Official website of LEAD Society TIET. I built the sponsors page and a personalized LEAD chatbot | [Live](https://leadtiet.in/) · [Repo](https://github.com/LEAD-Society-Thapar/Lead-2026-official) |
 | **Matrix 4.0** | Event website for LEAD's Matrix 4.0. I built the homepage | [Live](https://matrix-4-0.vercel.app/) · [Repo](https://github.com/manyaa08/MATRIX-4.0) |
-| **Intel × LEAD Event Portal** | Portal that ran Round 2 of a 3-round event, used by ~20 teams (80–90 participants) at the same time | [Live](https://intel-x-event-portal.vercel.app/login) · [Repo](https://github.com/LEAD-Society-Thapar/Intel-X-Event-Portal) |
+| **Intel × LEAD Event Portal** | Portal that ran Round 2 of a 3-round event, used by ~20 teams (100+ participants) at the same time | [Live](https://intel-x-event-portal.vercel.app/login) · [Repo](https://github.com/LEAD-Society-Thapar/Intel-X-Event-Portal) |
 | **Spendly** | Basic expense tracker to log expenses, visualize spending and manage monthly budgets (React, Node.js, MongoDB) | [Live](https://spendly-version1.vercel.app/) · [Repo](https://github.com/AryanGoyal17/Spendly) |
 
 ---
